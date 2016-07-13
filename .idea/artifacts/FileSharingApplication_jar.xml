@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FileSharingApplication:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileSharingApplication_jar</output-path>
+    <root id="archive" name="FileSharingApplication.jar">
+      <element id="module-output" name="FileSharingApplication" />
+    </root>
+  </artifact>
+</component>
